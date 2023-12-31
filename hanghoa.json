@@ -1,0 +1,62 @@
+[
+    {
+        "ID": 1,
+        "Name": "Banh quy",
+        "Price": 2000
+    },
+    {
+        "ID": 2,
+        "Name": "Mi cay",
+        "Price": 5000
+    },
+    {
+        "ID": 3,
+        "Name": "Thang moi da den",
+        "Price": 200000
+    },
+    {
+        "ID": 4,
+        "Name": "Mi Tre em",
+        "Price": 3000
+    },
+    {
+        "ID": 5,
+        "Name": "AK 57",
+        "Price": 40000000
+    },
+    {
+        "ID": 6,
+        "Name": "Banh bong lan trung muoi",
+        "Price": 5000
+    },
+    {
+        "ID": 7,
+        "Name": "Sua chua",
+        "Price": 5000
+    },
+    {
+        "ID": 8,
+        "Name": "God",
+        "Price": 5000
+    },
+    {
+        "ID": 9,
+        "Name": "jeSUS",
+        "Price": 5000
+    },
+    {
+        "ID": 10,
+        "Name": "Banh da 2kg",
+        "Price": 5000
+    },
+    {
+        "ID": 11,
+        "Name": "Sushi",
+        "Price": 30000
+    },
+    {
+        "ID": 12,
+        "Name": "Dau an",
+        "Price": 25000
+    }
+]
